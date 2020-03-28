@@ -1,11 +1,9 @@
 #menu {
-	
-	width: 100%;
-	height: 40px;
-	background: rgba(0, 114, 128, 0.31);
-	text-align:right;
-
-	
+    position: fixed;
+    width: 100%;
+    height: 40px;
+    background: rgba(0, 114, 128, 0.31);
+    text-align: right;
 }
 
 .menuItem {
@@ -17,7 +15,7 @@ a {
 	color: #185600;
 }
 
-#aboutText {
+.writeText {
 	margin-left: 100px;
 	margin-right: 100px;
 	font-family: Helvetica;
